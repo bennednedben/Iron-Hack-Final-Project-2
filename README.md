@@ -8,53 +8,53 @@
 
 ## Programs used:
 
-	* Jupyter Notebook
-	* PyCharm
-	* Excel
-	* LibreOffice
-	* Power Point
-    * Adobe Photoshop
+- Jupyter Notebook
+- PyCharm
+- Excel
+- LibreOffice
+- Power Point
+- Adobe Photoshop
 
 ## Libaries used:
 
-    * pandas
-    * numpy
-    * matplotlib
-    * seaborn
-    * warnings
-    * BeautifulSoup
-    * sklearn
-    * train_test_split
-    * OneHotEncoder
-    * make_column_transformer
-    * StandardScaler
-    * MinMaxScaler
-    * r2_score
-    * mean_squared_error
-    * mean_absolute_error
-    * MLPRegressor
-    * LinearRegression
-    * LogisticRegression
-    * neighbors
-    * KMeans
-    * PCA
-    * VarianceThreshold
-    * RFE
-    * cross_val_score
-    * DecisionTreeRegressor
-    * RandomForestClassifier
-    * RandomForestRegressor
-    * confusion_matrix
-    * cluster
-    * re
-    * nltk
-    * word_tokenize
-    * WordNetLemmatizer
-    * PorterStemmer
-    * wordnet
-    * stopwords
-    * FreqDist
-    * CountVectorizer
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- warnings
+- BeautifulSoup
+- sklearn
+- train_test_split
+- OneHotEncoder
+- make_column_transformer
+- StandardScaler
+- MinMaxScaler
+- r2_score
+- mean_squared_error
+- mean_absolute_error
+- MLPRegressor
+- LinearRegression
+- LogisticRegression
+- neighbors
+- KMeans
+- PCA
+- VarianceThreshold
+- RFE
+- cross_val_score
+- DecisionTreeRegressor
+- RandomForestClassifier
+- RandomForestRegressor
+- confusion_matrix
+- cluster
+- re
+- nltk
+-  word_tokenize
+- WordNetLemmatizer
+- PorterStemmer
+- wordnet
+- stopwords
+- FreqDist
+- CountVectorizer
 
 
 
