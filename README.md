@@ -179,26 +179,24 @@ The goal of this notebook was to find the 100 most used words in the ['descripti
 Many factors determine the base rent of an apartment. 
 Many assumptions could be confirmed. 
 The location of the property has the greatest influence. 
-In addition, the following circumstances also have a influence on the base rent:
-- service Charge
-- newlyConst
-- balcony
-- cellar
-- picture count
-- year constructed
-- number of park spaces
-- has Kitchen
-- living space
-- lift
-- last refurbish
-- garden
-- type of flat
-- heating type
-- firing type
+In addition, the following circumstances also have correlations on the base rent per squer meter in descending order:
 - condition
 - interior quality
+- year constructedRange
+- has Kitchen
+- lift
+- newlyConst
+- heating type
 - pets allowed
-- number of rooms
 - energy efficiency class
+- last refurbish
+- picture count
+- balcony
+- number of park spaces
+- type of flat
+- living space Range
+- firing type
+- service Charge
+- number of rooms
 
 The housing market remains tense in Germany. Analyzing data can help people make the right decisions.
